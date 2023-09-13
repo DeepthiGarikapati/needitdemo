@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Recoed1</name>
+        <order/>
+        <roles>x_1122537_hello_wo.record1_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-13 10:25:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57cc833c479571109a470746926d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recoed1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello world" source="x_1122537_hello_wo">e891f634471571109a470746926d435b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello world">e891f634471571109a470746926d435b</sys_scope>
+        <sys_update_name>sys_ui_application_57cc833c479571109a470746926d43fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-13 10:25:15</sys_updated_on>
+    </sys_ui_application>
+</record_update>
